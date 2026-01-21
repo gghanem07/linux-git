@@ -42,3 +42,6 @@ shows the last line of a file
 
 # echo
 prints the text in that you want shown in the console
+
+# man
+shows the manual page for a command 
