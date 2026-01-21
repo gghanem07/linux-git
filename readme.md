@@ -26,4 +26,7 @@ removes a file
 to copy a file
 
 # mv 
-moves files or rename    
+moves files or rename
+
+# cat 
+show content of a file     
