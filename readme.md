@@ -31,6 +31,6 @@ moves files or rename
 # cat 
 show content of the file 
 
-#less
+# less
 shows file content one page at a time 
 
