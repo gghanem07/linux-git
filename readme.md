@@ -37,3 +37,6 @@ shows file content one page at a time
 # head
 shows the first lines of the file 
 
+# tail
+shows the last line of a file 
+
