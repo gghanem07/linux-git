@@ -40,3 +40,5 @@ shows the first lines of the file
 # tail
 shows the last line of a file 
 
+# echo
+prints the text in that you want shown in the console
