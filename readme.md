@@ -23,4 +23,7 @@ makes an empty file
 removes a file
 
 # cp
-to copy a file   
+to copy a file
+
+# mv 
+moves files or rename    
