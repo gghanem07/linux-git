@@ -34,3 +34,6 @@ show content of the file
 # less
 shows file content one page at a time 
 
+# head
+shows the first lines of the file 
+
