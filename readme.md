@@ -29,4 +29,4 @@ to copy a file
 moves files or rename
 
 # cat 
-show content of a file     
+show content of the file t
