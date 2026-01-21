@@ -17,4 +17,7 @@ makes new director
 removes director
 
 # touch 
-makes an empty file 
+makes an empty file
+
+# rm 
+removes a file  
