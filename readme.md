@@ -20,4 +20,7 @@ removes director
 makes an empty file
 
 # rm 
-removes a file  
+removes a file
+
+# cp
+to copy a file   
