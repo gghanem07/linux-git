@@ -10,3 +10,5 @@ lists files in your current directory
 # cd 
 changes your directory
 
+# mkdir 
+makes new directory
