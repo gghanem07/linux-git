@@ -14,4 +14,7 @@ changes your directory
 makes new director
 
 # rmdir 
-removes directory
+removes director
+
+# touch 
+makes an empty file 
