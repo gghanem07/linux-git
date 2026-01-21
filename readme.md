@@ -11,4 +11,7 @@ lists files in your current directory
 changes your directory
 
 # mkdir 
-makes new directory
+makes new director
+
+# rmdir 
+removes directory
