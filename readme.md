@@ -29,4 +29,8 @@ to copy a file
 moves files or rename
 
 # cat 
-show content of the file t
+show content of the file 
+
+#less
+shows file content one page at a time 
+
